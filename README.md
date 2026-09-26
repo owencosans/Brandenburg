@@ -36,3 +36,7 @@ labelled that way is posted.
 |---|---|---|---|
 
 The live versions run at caspase.ai.
+
+## Licence
+
+MIT. Fork it, change it, use it. See `LICENSE`.
