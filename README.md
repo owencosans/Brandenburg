@@ -1,15 +1,14 @@
 # Brandenburg
 
-The code behind *The RGM Files*, a series of case studies in revenue growth
-management: the work of deciding what a consumer-goods company charges, which
-pack sizes it sells, when it promotes and what it agrees with retailers.
+The code behind *Pricing Blunders*, a series on consumer-goods pricing. Each
+episode finds a company that missed its guidance or issued a warning, models
+the pricing decision behind it in public numbers, and tests whether a
+different price would have avoided the miss. You can change the inputs and see
+what else would have happened.
 
-Each episode takes one real decision by a well-known brand, sets out what the
-company did and what happened in public numbers, and models the decision so you
-can change the inputs and see what else would have happened. The interactive
-version of each model runs in the browser at caspase.ai. This repository holds
-the reference model in Python, its data with a source for every number, and
-tests that check the page and the Python agree.
+The interactive version of each model runs in the browser at caspase.ai. This
+repository holds the reference model in Python, its data with a source for
+every number, and tests that check the page and the Python agree.
 
 ## Episodes
 
