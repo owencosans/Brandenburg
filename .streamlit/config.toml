@@ -1,0 +1,21 @@
+# Colours and type match caspase.ai, where these demos are embedded.
+# Source: historiai/sites/caspase/site/index.html (paper, panel, ink, body, line, accent).
+
+[theme]
+base = "light"
+primaryColor = "#9E1B32"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F6F7"
+textColor = "#14161A"
+borderColor = "#E1E4E7"
+linkColor = "#9E1B32"
+baseRadius = "2px"
+font = "Hanken Grotesk:https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600&display=swap, sans-serif"
+headingFont = "Baskervville:https://fonts.googleapis.com/css2?family=Baskervville&display=swap, serif"
+codeFont = "IBM Plex Mono:https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap, monospace"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
