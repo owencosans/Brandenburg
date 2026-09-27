@@ -48,7 +48,10 @@ pip install playwright && playwright install chromium && python3 tests/test_pari
 |---|---|---|
 | Gross profit | $4.40bn | $4.35bn |
 | Gross margin | 37.5% | 37.2% |
-| Volume | −1.6% | −1%, reported to the nearest point |
+| Volume | −1.6% | −1% whole company, −2% North America Confectionery (volume/mix, to the nearest point) |
 
-The model was not tuned to 2025. What it leaves out is listed on the
+Actual gross profit and margin are Hershey's reported non-GAAP figures, the
+basis its guidance used. The model's 2025 cost is worked out from that margin,
+so the margins agree by construction; volume is the independent check. What
+the model leaves out is listed on the
 [sources page](https://caspase.ai/hershey/sources/).

@@ -12,6 +12,6 @@ goal_m,4147.8,$ millions gross profit,derived,11202.3 x 1.02 x (0.433 - 0.070),,
 hershey_move,0.065,price change,confirmed,"Q2 2024 earnings call, Michele Buck: ""about 6 to 7 points of net price realization"" (Hershey transcript, PublicNow repost)",2024-08-01,2,default for the page's Hershey input
 mars_move,0.105,price change,reported,"RBC Capital Markets channel checks via Investing.com: Mars chocolate 10-11%, whole line, December 2024",2024-10-02,5,midpoint; default for the page's Mars input
 category_elasticity,-0.5,per unit of shelf price change,best estimate,"Circana 2023 US chocolate via NCA State of Treating, reported by FoodNavigator: dollars +5.8%, units -5.4%",2024-04-25,5,range -0.3 to -0.8
-switching,1.25,logit coefficient on log price gap,best estimate,"Fitted to Hershey's FY2023 and Q1 2024 volume (fit_switching.py); no published study",,,"low confidence; range 0.5 to 3.0"
-actual_volume_2025,-0.01,volume/mix (rounded to the whole point),confirmed,"Hershey Q4 2025 results, 8-K Ex. 99.1",2026-02-05,1,check only
-actual_gross_profit_2025_m,4349.6,$ millions,derived,11692.6 x 0.372 (Hershey Q4 2025 results),2026-02-05,,check only
+switching,1.25,logit coefficient on log price gap,best estimate,"Set between fits to Hershey's FY2023 and Q1 2024 volume (fit_switching.py: 1.09 to 1.88); no published study",,,"low confidence; range 0.5 to 3.0"
+actual_volume_2025,-0.01,"organic volume/mix, whole company (rounded to the whole point; North America Confectionery -0.02)",confirmed,"Hershey Q4 2025 results, 8-K Ex. 99.1",2026-02-05,1,check only
+actual_gross_profit_2025_m,4351.2,$ millions,confirmed,"Hershey Q4 2025 results, 8-K Ex. 99.1: non-GAAP gross profit $4,351.2m (GAAP $3,922.7m)",2026-02-05,1,check only
